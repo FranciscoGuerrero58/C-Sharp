@@ -1,0 +1,14 @@
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.AssemblyInfoInputs.cache
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.AssemblyInfo.cs
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.exe
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.deps.json
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.runtimeconfig.json
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.dll
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\net8.0\CalculadoraCientifica.pdb
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.dll
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\refint\CalculadoraCientifica.dll
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.pdb
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\CalculadoraCientifica.genruntimeconfig.cache
+C:\Users\Gferr\Desktop\C#\Basicos\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\net8.0\ref\CalculadoraCientifica.dll
